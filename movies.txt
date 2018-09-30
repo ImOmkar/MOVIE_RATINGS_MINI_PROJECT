@@ -1,0 +1,20 @@
+1, Taare Zameen Par, Drama|Family, 2007
+2, The Sixth Sense, Drama|Mystery|Thriller, 1999
+3, City of God, Crime|Drama, 2002
+4, There Will Be Blood, Drama, 2007
+5, The Green Mile, Crime|Drama|Fantasy, 1999
+6, No Country for Old Men, Crime|Drama|Thriller, 2007
+7,  The Matrix, Action|Sci-Fi, 1999
+8, The Bourne Ultimatum, Action|Mystery|Thriller, 2007
+9, The Pianist, Biography|Drama|Music, 2002
+10, Catch Me If You Can, Biography|Crime|Drama, 2002
+11, Avengers, Action|Adventure|Fantasy, 2018
+12, Coco, Animation|Adventure|Comedy, 2017
+13, Blade Runner 2049, Drama|Mystery|Sci-Fi, 2017
+14, Your Name., Animation|Drama|Fantasy, 2016
+15, The Handmaiden, Drama|Romance|Thriller, 2016
+16, How to Train Your Dragon, Animation|Action|Adventure, 2010
+17, 3 Idiots, Comedy|Drama, 2009
+18, The Dark Knight, Action|Crime|Drama, 2008
+19, WALL·E, Animation|Adventure|Family, 2008 
+20, Race-3, Crime|Drama|Action, 2018
